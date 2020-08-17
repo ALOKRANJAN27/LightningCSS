@@ -131,13 +131,9 @@ gs-chart-title {
   inset 4px 4px 4px rgba(0, 0, 0, 0.3);
   width: 580px;
   height: 350px;
-
-
 }
-
 .top-cities{
-
-  position: absolute;
+ position: absolute;
   top: 0px;
   left:600px;
   background: #ffffff;
@@ -150,10 +146,7 @@ gs-chart-title {
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25),
   inset 4px 4px 4px rgba(0, 0, 0, 0.3);
   width: 600px;
-
 }
-
-
 *{
   margin: 0;
   padding: 0;
@@ -168,7 +161,6 @@ gs-chart-title {
   background: transparent;
 }
 .sidebar header {
-
 font-size: 22px;
   color: black;
   text-align: center;
@@ -178,8 +170,6 @@ font-size: 22px;
   background: transparent;
 
   user-select: none;
-
-
 }
 .sidebar ul a{
   display: block;
